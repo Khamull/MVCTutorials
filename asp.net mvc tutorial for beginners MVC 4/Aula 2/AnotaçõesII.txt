@@ -1,0 +1,3 @@
+Primeira criação de uma solução com MVC
+Como saber qual a versão do MVC esta sendo usada em uma determinada solução
+https://youtu.be/TvkR_AZVR2I?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v
